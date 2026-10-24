@@ -1,0 +1,6 @@
+{
+  "name": "Home Loan Repayment Monitor",
+  "description": "Calculate and track the impact of extra repayments on your home loan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
